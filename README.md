@@ -1,6 +1,6 @@
 # EX9 Preprocessing on Twitter Data using Rapidminer
-### Name       : KAVYA K
-### Reg Number : 212222230065
+### Name       : S.Mohanraj
+### Reg Number : 212212230065
 ### Date       : 13.04.2024 
 ## AIM: 
 To implement preprocessing technique on Twitter Data using Rapidminer
