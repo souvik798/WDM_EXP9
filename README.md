@@ -1,7 +1,10 @@
-### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
-### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
-### Description: 
+# EX9 Preprocessing on Twitter Data using Rapidminer
+### Name       : KAVYA K
+### Reg Number : 212222230065
+### Date       : 13.04.2024 
+## AIM: 
+To implement preprocessing technique on Twitter Data using Rapidminer
+## Description: 
 <div align = "justify">
 RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
 predictive analytics and statistical modeling, evaluation, and deployment. RapidMiner is written in the Java programming language. 
@@ -10,7 +13,7 @@ Each operator performs a single task within the process, and the output of each 
 other programs or used as an API. Individual functions can be called from the command line. 
 RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts.
 
-### Procedure:
+## Procedure:
 1) ***Import Twitter data:*** Import the Twitter data into RapidMiner. You can do this by selecting the appropriate
 data source operator, such as "Read Excel" or "Read CSV," and specifying the location of your Twitter data
 file.
@@ -24,7 +27,11 @@ operators for preprocessing:
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
 
-
 ### Output:
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/76c9b1e0-9825-4116-abef-10f39530306b)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/67a21930-9bb3-4849-859f-1302e40facaf)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/b8646ece-bf29-461e-82dc-6edb828aaec6)
+![image](https://github.com/kavyasenthamarai/WDM_EXP9/assets/118668727/c55a3dd3-6ac4-4f9b-a2ec-02ee35c7695a)
 
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
