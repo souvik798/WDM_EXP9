@@ -1,7 +1,7 @@
 # EX9 Preprocessing on Twitter Data using Rapidminer
-### Name       : S.Mohanraj
-### Reg Number : 212221230065
-### Date       : 13.04.2024 
+### Name       : Souvik kundu
+### Reg Number : 212221230105
+### Date       : 13.04.2003
 ## AIM: 
 To implement preprocessing technique on Twitter Data using Rapidminer
 ## Description: 
